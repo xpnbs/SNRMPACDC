@@ -3,7 +3,7 @@
 
    Hardware requirements:
    
-   getparameters.py requires a computer with enough RAM to support the in-memory operations. 
+   getparameter.py requires a computer with enough RAM to support the in-memory operations. 
 
    Operating system: windows 10
    
